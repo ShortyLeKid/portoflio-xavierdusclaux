@@ -1,0 +1,14 @@
+.main {
+    height: 100vh;
+    background-color: var(--color-palette-5)
+}
+
+.content {
+	padding: 50px;
+}
+
+.contentTitle {
+	font-size: 40px;
+	letter-spacing: 4px;
+	padding: 5px 0px 5px 0px;
+}
